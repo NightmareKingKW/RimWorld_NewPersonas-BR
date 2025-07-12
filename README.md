@@ -65,4 +65,3 @@ Sinta-se à vontade para incluir este mod em seus modpacks privados ou públicos
 
 * À equipe do **Vanilla Expanded**, por criar um padrão de qualidade que serve de inspiração.
 * À equipe do **Combat Extended**, por manterem um framework de combate incrível e uma documentação que tornou o patch possível.
-* 
